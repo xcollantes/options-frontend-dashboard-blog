@@ -3,7 +3,7 @@
 Author: Xavier Collantes
 28 August 2023
 
-This document describes the purpose of a tool for proactively finding stock opportunities, with a focus on [Fundamental Analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp#:~:text=Fundamental%20analysis%20is%20a%20valuation,in%20and%20its%20financial%20performance.
+This document describes the purpose of a tool for proactively finding stock opportunities, with a focus on [Fundamental Analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp#:~:text=Fundamental%20analysis%20is%20a%20valuation,in%20and%20its%20financial%20performance).
 
 ## Problem
 
@@ -31,12 +31,12 @@ Features are based on philosophical heuristics and research found in my research
 
 ## Non-goals
 
-What this project is not. The aim of the project including the research, tools, and process is:
+What this project is not. The aim of the project including the research,
+tools, and process is:
 
 - not to assist in Day Trading
 - not to empower decisions in cryptocurrency since forces that move
   cryptocurrency is far different than stocks (more detail in future publications
 - not to take advantage of [Technical
   Analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp but
-  instead focus on [Fundamental
-  Analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp#:~:text=Fundamental%20analysis%20is%20a%20valuation,in%20and%20its%20financial%20performance.
+  instead focus on [Fundamental Analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp).
