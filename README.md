@@ -1,2 +1,2 @@
-# stock-frontend-blog
+# Stock research project   
 Publicly available blog pages for reference.  
